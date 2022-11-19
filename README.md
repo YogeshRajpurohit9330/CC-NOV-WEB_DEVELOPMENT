@@ -3,7 +3,7 @@ SENTIMENTAL ANALYSIS - Sentimental analysis of amazon product reviews using Pyth
 
 ✅ What is Sentiment Analysis?
 
-Sentiment analysis, sometimes known as opinion mining, is a technique used in natural language processing (NLP) to determine the emotional undertone of a document. This is a common method used by organizations to identify and group ideas regarding a certain good, service, or concept.
+The process of computationally identifying and categorizing opinions expressed in a piece of text, especially in order to determine whether the writer's attitude towards a particular topic, product, etc. is positive, negative, or neutral.
 
 ✅ Some of the applications of Sentiment Analysis
 
